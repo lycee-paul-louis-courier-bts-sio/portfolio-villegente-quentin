@@ -330,6 +330,38 @@
         </div>
     </div>
 
+    <div class="container veille" id="veille">
+        <h1>Ma veille</h1>
+        <div class="card text-white text-center pt-5" style="background-color: #02332E">
+            <div id="carouselVeille" class="carousel slide">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="assets/img/capture_feedly500x500.png" class="d-block w-100" alt="Capture de mon feedly">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/capture_veille500x500.png" class="d-block w-100" alt="Capture d'écran de ma veille Notion">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/img/article_notion500x500.png" class="d-block w-100" alt="Capture d'un article sur Notion">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselVeille" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselVeille" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+            <br>
+            <a href="https://www.notion.so/Veille-professionnelle-2c75946faeed80379ef2e5f5057455dc" class="btn-secondary">
+                <button type="button" class="btn btn-primary">Accéder à ma veille</button>
+            </a>
+        </div>
+    </div>
+    <br>
+
 
     <div class="container contact" id="contact">
         <div class="row">
