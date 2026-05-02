@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-success">
+<nav class="navbar navbar-expand-lg text-white" style="background-color: #02332E">
     <div class="container">
         <a class="navbar-brand" href="index.php">
             <img src="assets/img/logo_portfolio.png" alt="Logo de mon portfolio" width="100" height="37">
@@ -23,8 +23,8 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="index.php?uc=competences&action=ap">Ateliers Professionnels</a></li>
                         <li><a class="dropdown-item" href="index.php?uc=competences&action=certif">Certification</a></li>
-                        <li><a class="dropdown-item" href="index.php?uc=competences&action=stages">Stages</a></li>
-                        <li><a class="dropdown-item" href="index.php?uc=competences&action=tab">Tableau de Synthèse</a></li>
+                        <li><a class="dropdown-item" href="#stages">Stages</a></li>
+                        <li><a class="dropdown-item" href="#tableau">Tableau de Synthèse</a></li>
                     </ul>
                 </li>
             </ul>
@@ -35,7 +35,7 @@
             </ul>
             <ul class="navbar-nav">
                 <li class="navbar-item">
-                    <a class="nav-link" href="index.php?uc=contact"> Contact</a>
+                    <a class="nav-link" href="#contact"> Contact</a>
                 </li>
             </ul>
         </div>
