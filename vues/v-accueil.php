@@ -1,15 +1,16 @@
 <link rel="stylesheet" href="./assets/css/accueil.css">
 <div class="text-white" style="background-color: #082904">
-    <div class="row">
-        <div class="welcome-section">
-            <h1>Quentin Villegente</h1>
-            <h2 class="dynamic-text">
-                <span id="dynamic"></span>
-            </h2>
+    <div class="container">
+        <div class="row">
+            <div class="welcome-section">
+                <h1>Quentin Villegente</h1>
+                <h2 class="dynamic-text">
+                    <span id="dynamic"></span>
+                </h2>
+            </div>
         </div>
     </div>
-</div>
-<div class="text-white" style="background-color: #082904">
+
     <div class="container parcours">
         <h1>Mon parcours</h1>
         <div class="card text-white text-center pt-5" style="background-color: #02332E">
@@ -22,8 +23,8 @@
             </div>
         </div>
     </div>
-</div>
-<div class="text-white" style="background-color: #082904">
+
+
     <div class="container tableau" id="tableau">
         <h1>Mon tableau de synthèse</h1>
         <div class="card text-white text-center pt-5" style="background-color: #02332E">
@@ -40,17 +41,186 @@
         </div>
         <br>
     </div>
-</div>
-<div class="text-white" style="background-color: #082904">
+
+    <div class='container ap' id="ap">
+        <h1>Mes Ateliers Professionnels</h1>
+        <div class="row mt-4">
+            <div class="col-4">
+                <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
+                    <img src="assets/img/logo_startdev500x500.png" class="card-img-top" alt="logo de startdev">
+                    <div class="card-body text-white" style="background-color: #02332E">
+                        <h5 class="card-title">1ère année - StartDev</h5>
+                        <p class="card-text"></p>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalDomitys">
+                            En savoir plus
+                        </button>
+                    </div>
+                    <div class="modal" id="ModalDomitys" tabindex="-1">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Mon stage chez Domitys</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div id="carouselDomitys" class="carousel slide">
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img src="assets/img/teams_domitys.png" class="d-block w-100" alt="capture du trello de Domitys">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/tests_domitys.png" class="d-block w-100" alt="Capture d'un cahier de tests chez Domitys">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/rapports_domitys.png" class="d-block w-100" alt="Capture de l'application de rapports">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/competences_domitys.png" class="d-block w-100" alt="Capture des compétences chez Domitys">
+                                            </div>
+                                        </div>
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselDomitys" data-bs-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Previous</span>
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselDomitys" data-bs-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Next</span>
+                                        </button>
+                                    </div>
+                                    <br>
+                                    <br>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="assets/doc/rapport_domitys.pdf" class="btn-download-tableau btn-secondary" download>
+                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
+                                    </a>
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
+                    <img src="assets/img/logo_millesnuits500x500.png" class="card-img-top" alt="logo de mille nuits">
+                    <div class="card-body text-white" style="background-color: #02332E">
+                        <h5 class="card-title">1ère année - Mille nuits</h5>
+                        <p class="card-text"></p>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
+                            En savoir plus
+                        </button>
+                    </div>
+                    <div class="modal" id="ModalS2C" tabindex="-1">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Mon stage chez Stock2Com</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div id="carouselS2C" class="carousel slide">
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img src="assets/img/cahier_charges_s2c.png" class="d-block w-100" alt="Capture d'écran du cahier des charges fourni par Stock2Com">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/resultat_s2c.png" class="d-block w-100" alt="Capture d'écran des résultats finaux">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/competences_s2c.png" class="d-block w-100" alt="Capture des compétences chez Stock2Com">
+                                            </div>
+                                        </div>
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselS2C" data-bs-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Previous</span>
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselS2C" data-bs-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Next</span>
+                                        </button>
+                                    </div>
+                                    <br>
+                                    <br>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="assets/doc/rapport_s2c.pdf" class="btn-download-tableau btn-secondary" download>
+                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
+                                    </a>
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
+                    <img src="assets/img/logo_epoka500x500.png" class="card-img-top" alt="logo d'Epoka">
+                    <div class="card-body text-white" style="background-color: #02332E">
+                        <h5 class="card-title">2ème année - EPOKA</h5>
+                        <p class="card-text"></p>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
+                            En savoir plus
+                        </button>
+                    </div>
+                    <div class="modal" id="ModalS2C" tabindex="-1">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Mon stage chez Stock2Com</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div id="carouselS2C" class="carousel slide">
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img src="assets/img/cahier_charges_s2c.png" class="d-block w-100" alt="Capture d'écran du cahier des charges fourni par Stock2Com">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/resultat_s2c.png" class="d-block w-100" alt="Capture d'écran des résultats finaux">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/competences_s2c.png" class="d-block w-100" alt="Capture des compétences chez Stock2Com">
+                                            </div>
+                                        </div>
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselS2C" data-bs-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Previous</span>
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselS2C" data-bs-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Next</span>
+                                        </button>
+                                    </div>
+                                    <br>
+                                    <br>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="assets/doc/rapport_s2c.pdf" class="btn-download-tableau btn-secondary" download>
+                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
+                                    </a>
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <br>
+    <br>
+
+
     <div class='container stages' id="stages">
         <h1>Mes Stages</h1>
         <div class="row mt-4">
             <div class="col-4">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_domitys500x500.png" class="card-img-top" alt="logo de domitys">
-                    <div class="card-header">
-
-                    </div>
                     <div class="card-body text-white" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - DOMYTYS SAS</h5>
                         <p class="card-text"></p>
@@ -107,13 +277,53 @@
             <div class="col-6">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_stock2com500x500.png" class="card-img-top" alt="logo de stock2com">
-                    <div class="card-header">
-
-                    </div>
                     <div class="card-body text-white" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - STOCK2COM</h5>
                         <p class="card-text"></p>
-                        <a href="index.php?uc=stages&action=domitys" class="btn btn-primary">En savoir plus</a>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
+                            En savoir plus
+                        </button>
+                    </div>
+                    <div class="modal" id="ModalS2C" tabindex="-1">
+                        <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Mon stage chez Stock2Com</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div id="carouselS2C" class="carousel slide">
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img src="assets/img/cahier_charges_s2c.png" class="d-block w-100" alt="Capture d'écran du cahier des charges fourni par Stock2Com">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/resultat_s2c.png" class="d-block w-100" alt="Capture d'écran des résultats finaux">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/competences_s2c.png" class="d-block w-100" alt="Capture des compétences chez Stock2Com">
+                                            </div>
+                                        </div>
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselS2C" data-bs-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Previous</span>
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselS2C" data-bs-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="visually-hidden">Next</span>
+                                        </button>
+                                    </div>
+                                    <br>
+                                    <br>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="assets/doc/rapport_s2c.pdf" class="btn-download-tableau btn-secondary" download>
+                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
+                                    </a>
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -178,23 +388,24 @@
         </div>
     </div>
 
+</div>
 
-    <script>
-        const phrases = [
-            "Futur diplômé du BTS SIO",
-            "Passionné par le code",
-            "Sérieux et motivé",
-            "Bienvenue sur mon portfolio"
-        ];
+<script>
+    const phrases = [
+        "Futur diplômé du BTS SIO",
+        "Passionné par le code",
+        "Sérieux et motivé",
+        "Bienvenue sur mon portfolio"
+    ];
 
-        let index = 0;
-        let dynamic = document.getElementById('dynamic');
+    let index = 0;
+    let dynamic = document.getElementById('dynamic');
 
-        function changePhrase() {
-            dynamic.textContent = phrases[index];
-            index = (index + 1) % phrases.length;
-        }
+    function changePhrase() {
+        dynamic.textContent = phrases[index];
+        index = (index + 1) % phrases.length;
+    }
 
-        changePhrase();
-        setInterval(changePhrase, 2500);
-    </script>
+    changePhrase();
+    setInterval(changePhrase, 2500);
+</script>
