@@ -51,31 +51,28 @@
                     <div class="card-body text-white" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - StartDev</h5>
                         <p class="card-text"></p>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalDomitys">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalStartDev">
                             En savoir plus
                         </button>
                     </div>
-                    <div class="modal" id="ModalDomitys" tabindex="-1">
+                    <div class="modal" id="ModalStartDev" tabindex="-1">
                         <div class="modal-dialog modal-dialog-centered modal-lg">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Mon stage chez Domitys</h5>
+                                    <h5 class="modal-title">Mon Atelier Professionnel StartDev</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
                                     <div id="carouselDomitys" class="carousel slide">
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="assets/img/teams_domitys.png" class="d-block w-100" alt="capture du trello de Domitys">
+                                                <img src="assets/img/wordpress_setup_startdev.png" class="d-block w-100" alt="Capture du de l'installation de Wordpress">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="assets/img/tests_domitys.png" class="d-block w-100" alt="Capture d'un cahier de tests chez Domitys">
+                                                <img src="assets/img/wordpress_plugins_startdev.png" class="d-block w-100" alt="Capture des plugins Wordpress">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="assets/img/rapports_domitys.png" class="d-block w-100" alt="Capture de l'application de rapports">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="assets/img/competences_domitys.png" class="d-block w-100" alt="Capture des compétences chez Domitys">
+                                                <img src="assets/img/competences_startdev.png" class="d-block w-100" alt="Capture des compétences de StartDev">
                                             </div>
                                         </div>
                                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselDomitys" data-bs-slide="prev">
@@ -91,8 +88,11 @@
                                     <br>
                                 </div>
                                 <div class="modal-footer">
-                                    <a href="assets/doc/rapport_domitys.pdf" class="btn-download-tableau btn-secondary" download>
-                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
+                                    <a href="assets/doc/doc_cms_startdev.pdf" class="btn-download-tableau btn-secondary" download>
+                                        <button type="button" class="btn btn-primary">Télécharger le comparatif de cms</button>
+                                    </a>
+                                    <a href="assets/doc/doc_wordpress_startdev.pdf" class="btn-download-tableau btn-secondary" download>
+                                        <button type="button" class="btn btn-primary">Télécharger la documentation d'installation wordpress</button>
                                     </a>
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
                                 </div>
@@ -107,11 +107,11 @@
                     <div class="card-body text-white" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - Mille nuits</h5>
                         <p class="card-text"></p>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalMilleNuits">
                             En savoir plus
                         </button>
                     </div>
-                    <div class="modal" id="ModalS2C" tabindex="-1">
+                    <div class="modal" id="ModalMilleNuits" tabindex="-1">
                         <div class="modal-dialog modal-dialog-centered modal-lg">
                             <div class="modal-content">
                                 <div class="modal-header">
@@ -119,23 +119,23 @@
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <div id="carouselS2C" class="carousel slide">
+                                    <div id="carouselMilleNuits" class="carousel slide">
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="assets/img/cahier_charges_s2c.png" class="d-block w-100" alt="Capture d'écran du cahier des charges fourni par Stock2Com">
+                                                <img src="assets/img/accueil_millenuits.png" class="d-block w-100" alt="Capture d'écran du cahier des charges fourni par Stock2Com">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="assets/img/resultat_s2c.png" class="d-block w-100" alt="Capture d'écran des résultats finaux">
+                                                <img src="assets/img/bdd_millenuits.png" class="d-block w-100" alt="Capture d'écran des résultats finaux">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="assets/img/competences_s2c.png" class="d-block w-100" alt="Capture des compétences chez Stock2Com">
+                                                <img src="assets/img/competences_millenuits.png" class="d-block w-100" alt="Capture des compétences chez Stock2Com">
                                             </div>
                                         </div>
-                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselS2C" data-bs-slide="prev">
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselMilleNuits" data-bs-slide="prev">
                                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Previous</span>
                                         </button>
-                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselS2C" data-bs-slide="next">
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselMilleNuits" data-bs-slide="next">
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Next</span>
                                         </button>
@@ -144,8 +144,8 @@
                                     <br>
                                 </div>
                                 <div class="modal-footer">
-                                    <a href="assets/doc/rapport_s2c.pdf" class="btn-download-tableau btn-secondary" download>
-                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
+                                    <a href="assets/doc/doc_bdd_millenuits.pdf" class="btn-download-tableau btn-secondary" download>
+                                        <button type="button" class="btn btn-primary">Télécharger la documentation de notre base de données</button>
                                     </a>
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
                                 </div>
@@ -160,35 +160,41 @@
                     <div class="card-body text-white" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - EPOKA</h5>
                         <p class="card-text"></p>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalEpoka">
                             En savoir plus
                         </button>
                     </div>
-                    <div class="modal" id="ModalS2C" tabindex="-1">
+                    <div class="modal" id="ModalEpoka" tabindex="-1">
                         <div class="modal-dialog modal-dialog-centered modal-lg">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Mon stage chez Stock2Com</h5>
+                                    <h5 class="modal-title">Mon Atelier Professionnel Epoka</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <div id="carouselS2C" class="carousel slide">
+                                    <div id="carouselEpoka" class="carousel slide">
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="assets/img/cahier_charges_s2c.png" class="d-block w-100" alt="Capture d'écran du cahier des charges fourni par Stock2Com">
+                                                <img src="assets/img/accueil_epoka.png" class="d-block w-100" alt="Capture d'écran de l'accueil d'Epoka Abo">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="assets/img/resultat_s2c.png" class="d-block w-100" alt="Capture d'écran des résultats finaux">
+                                                <img src="assets/img/ajout_vente_epoka.png" class="d-block w-100" alt="Capture d'écran du formulaire d'ajout de ventes">
                                             </div>
                                             <div class="carousel-item">
-                                                <img src="assets/img/competences_s2c.png" class="d-block w-100" alt="Capture des compétences chez Stock2Com">
+                                                <img src="assets/img/liste_abos_epoka.png" class="d-block w-100" alt="Capture des listes d'abonnements d'Epoka">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/webservice_code_epoka.png" class="d-block w-100" alt="Capture du code d'un des webservices d'Epoka">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="assets/img/competences_epoka.png" class="d-block w-100" alt="Capture du tableau de synthèse d'Epoka">
                                             </div>
                                         </div>
-                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselS2C" data-bs-slide="prev">
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselEpoka" data-bs-slide="prev">
                                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Previous</span>
                                         </button>
-                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselS2C" data-bs-slide="next">
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselEpoka" data-bs-slide="next">
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Next</span>
                                         </button>
@@ -197,9 +203,6 @@
                                     <br>
                                 </div>
                                 <div class="modal-footer">
-                                    <a href="assets/doc/rapport_s2c.pdf" class="btn-download-tableau btn-secondary" download>
-                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
-                                    </a>
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
                                 </div>
                             </div>

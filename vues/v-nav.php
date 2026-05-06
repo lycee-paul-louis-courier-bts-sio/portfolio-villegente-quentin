@@ -22,7 +22,7 @@
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-bs-toggle="dropdown">Compétences Professionnelles</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#ap">Ateliers Professionnels</a></li>
-                        <li><a class="dropdown-item" href="index.php?uc=competences&action=certif">Certification</a></li>
+                        <li><a class="dropdown-item" href="#veille">Certification</a></li>
                         <li><a class="dropdown-item" href="#stages">Stages</a></li>
                         <li><a class="dropdown-item" href="#tableau">Tableau de Synthèse</a></li>
                     </ul>
@@ -30,7 +30,7 @@
             </ul>
             <ul class="navbar-nav">
                 <li class="navbar-item">
-                    <a class="nav-link" href="index.php?uc=veille"> Veille Technologique</a>
+                    <a class="nav-link" href="#veille"> Veille Technologique</a>
                 </li>
             </ul>
             <ul class="navbar-nav">
