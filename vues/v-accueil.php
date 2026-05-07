@@ -2,7 +2,7 @@
 <div class="text-white" style="background-color: #082904">
     <div class="container">
         <div class="row">
-            <div class="welcome-section">
+            <div class="col-12 welcome-section">
                 <h1>Quentin Villegente</h1>
                 <h2 class="dynamic-text">
                     <span id="dynamic"></span>
@@ -11,18 +11,20 @@
         </div>
     </div>
 
-    <div class="container parcours">
+    <div class="container">
         <h1>Mon parcours</h1>
-        <div class="card text-white pt-5" style="background-color: #02332E">
+        <div class="card text-white text-center pt-5" style="background-color: #02332E">
             <div class="row">
-                <div class="col-md-6" style="text-align: justify">
+                <div class=" col-lg-12 col-md-12">
                     <p>Je m'appelle Quentin Villegente et je suis étudiant en BTS SIO spécialité
                         SLAM (Solution Logiciels et Applications Métiers) au lycée Paul Louis Courier.
                         Après avoir fait un Baccalauréat Général avec spécialité Mathématiques et NSI (Numérique et Science de l'Informatique),
                         le BTS SIO spécialité SLAM me semblait être la suite logique de mon parcours en développement.</p>
                 </div>
-                <div class="col-md-6">
-                    <img src="assets/img/parcours.png" alt="mon parcours" height="100%" width="50%" class="parcours-img" style="margin-left: 25%">
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
+                    <img src="assets/img/parcours.png" alt="mon parcours" class="img-fluid" style="margin-left: 55%; margin-right: auto">
                 </div>
             </div>
             <div class="tableau-actions text-center">
