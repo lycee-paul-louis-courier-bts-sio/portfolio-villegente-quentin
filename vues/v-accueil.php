@@ -38,8 +38,8 @@
 
     <div class='container ap' id="ap">
         <h1>Mes Ateliers Professionnels</h1>
-        <div class="row mt-4">
-            <div class="col-4">
+        <div class="row mt-4 ">
+            <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_startdev500x500.png" class="card-img-top" alt="logo de startdev">
                     <div class="card-body text-white" style="background-color: #02332E">
@@ -95,7 +95,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4">
+            <br>
+            <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_millesnuits500x500.png" class="card-img-top" alt="logo de mille nuits">
                     <div class="card-body text-white" style="background-color: #02332E">
@@ -148,7 +149,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4">
+            <br>
+            <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_epoka500x500.png" class="card-img-top" alt="logo d'Epoka">
                     <div class="card-body text-white" style="background-color: #02332E">
