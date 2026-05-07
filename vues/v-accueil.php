@@ -13,9 +13,19 @@
 
     <div class="container parcours">
         <h1>Mon parcours</h1>
-        <div class="card text-white text-center pt-5" style="background-color: #02332E">
-            <img src="assets/img/parcours.png" alt="mon parcours" height="100%" width="50%" class="parcours-img" style="margin-left: 25%">
-            <div class="tableau-actions">
+        <div class="card text-white pt-5" style="background-color: #02332E">
+            <div class="row">
+                <div class="col-md-6" style="text-align: justify">
+                    <p>Je m'appelle Quentin Villegente et je suis étudiant en BTS SIO spécialité
+                        SLAM (Solution Logiciels et Applications Métiers) au lycée Paul Louis Courier.
+                        Après avoir fait un Baccalauréat Général avec spécialité Mathématiques et NSI (Numérique et Science de l'Informatique),
+                        le BTS SIO spécialité SLAM me semblait être la suite logique de mon parcours en développement.</p>
+                </div>
+                <div class="col-md-6">
+                    <img src="assets/img/parcours.png" alt="mon parcours" height="100%" width="50%" class="parcours-img" style="margin-left: 25%">
+                </div>
+            </div>
+            <div class="tableau-actions text-center">
                 <br>
                 <a href="assets/doc/CV.pdf" class="btn-download-tableau btn-secondary" download>
                     <button type="button" class="btn btn-primary">Télécharger mon CV</button>
@@ -24,23 +34,6 @@
         </div>
     </div>
 
-
-    <div class="container tableau" id="tableau">
-        <h1>Mon tableau de synthèse</h1>
-        <div class="card text-white text-center pt-5" style="background-color: #02332E">
-            <img src="assets/img/tableau.png" alt="mon tableau de synthèse" height="100%" width="50%" class="tableau-img" style="margin-left: 25%">
-            <div class="tableau-actions">
-                <br>
-                <a href="assets/doc/tableau.pdf" class="btn-download-tableau btn-secondary" download>
-                    <button type="button" class="btn btn-primary">Télécharger le pdf</button>
-                </a>
-                <a href="assets/doc/tableau.ods" class="btn-download-tableau" download>
-                    <button type="button" class="btn btn-primary">Télécharger le tableau Excel</button>
-                </a>
-            </div>
-        </div>
-        <br>
-    </div>
 
     <div class='container ap' id="ap">
         <h1>Mes Ateliers Professionnels</h1>
@@ -63,7 +56,7 @@
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <div id="carouselDomitys" class="carousel slide">
+                                    <div id="carouselStartDev" class="carousel slide">
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
                                                 <img src="assets/img/wordpress_setup_startdev.png" class="d-block w-100" alt="Capture du de l'installation de Wordpress">
@@ -75,11 +68,11 @@
                                                 <img src="assets/img/competences_startdev.png" class="d-block w-100" alt="Capture des compétences de StartDev">
                                             </div>
                                         </div>
-                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselDomitys" data-bs-slide="prev">
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselStartDev" data-bs-slide="prev">
                                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Previous</span>
                                         </button>
-                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselDomitys" data-bs-slide="next">
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselStartDev" data-bs-slide="next">
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Next</span>
                                         </button>
@@ -115,7 +108,7 @@
                         <div class="modal-dialog modal-dialog-centered modal-lg">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Mon stage chez Stock2Com</h5>
+                                    <h5 class="modal-title">Mon Atelier Professionnel Mille Nuits</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
@@ -265,6 +258,8 @@
                                     </div>
                                     <br>
                                     <br>
+                                    <p>Mon stage chez Domitys s'incrit dans un contexte particulier, car ils étaient en pleine migration de version sur leur application nationnale. De plus, le développement chez Domitys est en grande partie externalisée.</p>
+                                    <p>Le but de mon stage était donc de suivre cette migration et de vérifier le bon fonctionnement de la nouvelle version.</p>
                                 </div>
                                 <div class="modal-footer">
                                     <a href="assets/doc/rapport_domitys.pdf" class="btn-download-tableau btn-secondary" download>
@@ -331,6 +326,23 @@
                 </div>
             </div>
         </div>
+    </div>
+
+    <div class="container tableau" id="tableau">
+        <h1>Mon tableau de synthèse</h1>
+        <div class="card text-white text-center pt-5" style="background-color: #02332E">
+            <img src="assets/img/tableau.png" alt="mon tableau de synthèse" height="100%" width="50%" class="tableau-img" style="margin-left: 25%">
+            <div class="tableau-actions">
+                <br>
+                <a href="assets/doc/tableau.pdf" class="btn-download-tableau btn-secondary" download>
+                    <button type="button" class="btn btn-primary">Télécharger le pdf</button>
+                </a>
+                <a href="assets/doc/tableau.ods" class="btn-download-tableau" download>
+                    <button type="button" class="btn btn-primary">Télécharger le tableau Excel</button>
+                </a>
+            </div>
+        </div>
+        <br>
     </div>
 
     <div class="container veille" id="veille">
