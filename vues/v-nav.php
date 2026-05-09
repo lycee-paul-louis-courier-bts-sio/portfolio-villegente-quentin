@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg text-white" style="background-color: #02332E">
+<nav class="navbar navbar-expand-lg text-white sticky-top" style="background-color: #02332E">
     <div class="container">
         <a class="navbar-brand" href="index.php">
             <img src="assets/img/logo_portfolio.png" alt="Logo de mon portfolio" width="100" height="37">
