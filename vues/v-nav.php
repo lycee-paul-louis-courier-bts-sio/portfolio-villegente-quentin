@@ -13,7 +13,7 @@
         <div class="collapse navbar-collapse justify-content-end" id="menu-btssio">
             <ul class="navbar-nav">
                 <li class="navbar-item">
-                    <a class="nav-link text-white" href="index.php?uc=aboutme"> A Propos de moi</a>
+                    <a class="nav-link text-white" href="#parcours"> A Propos de moi</a>
                 </li>
             </ul>
 

@@ -11,7 +11,7 @@
         </div>
     </div>
 
-    <div class="container">
+    <div class="container" id="parcours">
         <h1>Mon parcours</h1>
         <div class="card text-white text-center pt-5" style="background-color: #02332E">
             <div class="row">
@@ -42,9 +42,9 @@
             <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_startdev500x500.png" class="card-img-top" alt="logo de startdev">
-                    <div class="card-body text-white" style="background-color: #02332E">
+                    <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - StartDev</h5>
-                        <p class="card-text"></p>
+                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalStartDev">
                             En savoir plus
                         </button>
@@ -99,9 +99,9 @@
             <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_millesnuits500x500.png" class="card-img-top" alt="logo de mille nuits">
-                    <div class="card-body text-white" style="background-color: #02332E">
+                    <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - Mille nuits</h5>
-                        <p class="card-text"></p>
+                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalMilleNuits">
                             En savoir plus
                         </button>
@@ -153,9 +153,9 @@
             <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_epoka500x500.png" class="card-img-top" alt="logo d'Epoka">
-                    <div class="card-body text-white" style="background-color: #02332E">
+                    <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - EPOKA</h5>
-                        <p class="card-text"></p>
+                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalEpoka">
                             En savoir plus
                         </button>
@@ -217,12 +217,12 @@
     <div class='container stages' id="stages">
         <h1>Mes Stages</h1>
         <div class="row mt-4">
-            <div class="col-4">
+            <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_domitys500x500.png" class="card-img-top" alt="logo de domitys">
-                    <div class="card-body text-white" style="background-color: #02332E">
+                    <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - DOMYTYS SAS</h5>
-                        <p class="card-text"></p>
+                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalDomitys">
                             En savoir plus
                         </button>
@@ -261,8 +261,9 @@
                                     </div>
                                     <br>
                                     <br>
-                                    <p>Mon stage chez Domitys s'incrit dans un contexte particulier, car ils étaient en pleine migration de version sur leur application nationnale. De plus, le développement chez Domitys est en grande partie externalisée.</p>
+                                    <p>Mon stage chez Domitys s'incrit dans un contexte particulier, car ils étaient en pleine migration de version sur leur application nationale. De plus, le développement chez Domitys est en grande partie externalisée.</p>
                                     <p>Le but de mon stage était donc de suivre cette migration et de vérifier le bon fonctionnement de la nouvelle version.</p>
+                                    <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
                                 </div>
                                 <div class="modal-footer">
                                     <a href="assets/doc/rapport_domitys.pdf" class="btn-download-tableau btn-secondary" download>
@@ -275,12 +276,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-6">
+            <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_stock2com500x500.png" class="card-img-top" alt="logo de stock2com">
-                    <div class="card-body text-white" style="background-color: #02332E">
+                    <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - STOCK2COM</h5>
-                        <p class="card-text"></p>
+                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
                             En savoir plus
                         </button>
