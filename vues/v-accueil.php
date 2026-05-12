@@ -200,6 +200,11 @@
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Next</span>
                                         </button>
+                                        <p>L'atelier professionnel Epoka était pour les SLAMs l'atelier le plus complet car il se déroulait tout au long de la seconde année.</p>
+                                        <p>Tout d'abord, il fallait aussi créer une base de données en fonction de différents attendus. Une fois cette base de données validée, une application Web en php devait être créée, permettant de gérer différents éléments de la base de données, comme les différentes revues disponibles ou les ventes dans mon cas.</p>
+                                        <p>Ensuite, une autre application en JSP (Jakarta) a été créée cette fois ci pour gérer les abonnements des clients d'Epoka, notamment pour afficher les abonnements expirés ou bientôt expirés, ou encore créer de nouveaux abonnements.</p>
+                                        <p>Enfin, j'ai développé des web services permettant de récuperer les informations dans la base de données. Ils sont particuliérement utiles pour l'application mobile Epoka que l'on devait développer en Java, qui utilise ses web services pour alimenter ses différentes vues ou proposer un système de connexion.</p>
+                                        <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
