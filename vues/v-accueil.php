@@ -11,6 +11,9 @@
         </div>
     </div>
 
+    <br>
+    <br>
+
     <div class="container" id="parcours">
         <h1>Mon parcours</h1>
         <div class="card text-white text-center pt-5" style="background-color: #02332E">
@@ -35,6 +38,9 @@
         </div>
     </div>
 
+    <br>
+    <br>
+
     <div class="container" id="bts">
         <h1>Le BTS SIO</h1>
         <div class="card text-white text-center pt-5" style="background-color: #02332E">
@@ -57,6 +63,9 @@
             </div>
         </div>
     </div>
+
+    <br>
+    <br>
 
 
     <div class='container ap' id="ap">
@@ -369,6 +378,9 @@
         </div>
     </div>
 
+    <br>
+    <br>
+
     <div class="container tableau" id="tableau">
         <h1>Mon tableau de synthèse</h1>
         <div class="card text-white text-center pt-5" style="background-color: #02332E">
@@ -385,6 +397,9 @@
         </div>
         <br>
     </div>
+
+    <br>
+    <br>
 
     <div class="container veille" id="veille">
         <h1>Ma veille</h1>
@@ -416,6 +431,8 @@
             </a>
         </div>
     </div>
+
+    <br>
     <br>
 
 
