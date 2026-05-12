@@ -35,6 +35,29 @@
         </div>
     </div>
 
+    <div class="container" id="bts">
+        <h1>Le BTS SIO</h1>
+        <div class="card text-white text-center pt-5" style="background-color: #02332E">
+            <div class="row">
+                <div class=" col-lg-6 col-md-6" col-sm-12>
+                    <h2>L'option SLAM</h2>
+                    <p class="presentation">L'option SLAM du BTS SIO est l'option qui concerne le développement d'application et la création
+                        de solutions métiers. Les étudiants en option SLAM doivent donc maîtriser différents langages de programmation,
+                        IDEs, Frameworks et SGBDs.
+                    </p>
+                </div>
+            
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <h2>L'option SISR</h2>
+                    <p class="presentation">L'option SISR du BTS SIO est l'option axée sur la sécurité des systèmes d'information
+                        et la fiabilité du réseau d'une organisation. Les étudiants en SISR sont donc experts en ce qui concerne
+                        la cybersécurité et le fonctionnement d'un système-réseau.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <div class='container ap' id="ap">
         <h1>Mes Ateliers Professionnels</h1>
