@@ -23,7 +23,7 @@
                 </div>
             
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="assets/img/parcours.png" alt="mon parcours" class="img-fluid" style=" width: 300px;">
+                    <img src="assets/img/parcours_test.png" alt="mon parcours" class="img-fluid" style=" width: 300px;">
                 </div>
             </div>
             <div class="tableau-actions text-center">
@@ -77,6 +77,9 @@
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Next</span>
                                         </button>
+                                        <p>Cet atelier professionnel s'est deroulé lors du premier semestre de ma formation, nous n'avions donc pas encore choisi nos options. Il était commun pour les futurs SLAMs et futurs SISRs.</p>
+                                        <p>La première étape était donc de comparer différents CMS selon certains critères, puis de modifier un site vitrine déjà existant en utilisant le CMS Wordpress.</p>
+                                        <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
@@ -134,6 +137,8 @@
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Next</span>
                                         </button>
+                                        <p>L'atelier professionnel Mille Nuits était le premier atelier après notre choix d'option. Pour les SLAMs, il était donc question de créer une application web permettant d'effectuer certaines actions précisées dans un cahier des charges.</p>
+                                        <p></p>
                                     </div>
                                     <br>
                                     <br>
