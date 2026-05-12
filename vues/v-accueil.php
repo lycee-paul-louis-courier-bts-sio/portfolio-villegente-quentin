@@ -138,7 +138,8 @@
                                             <span class="visually-hidden">Next</span>
                                         </button>
                                         <p>L'atelier professionnel Mille Nuits était le premier atelier après notre choix d'option. Pour les SLAMs, il était donc question de créer une application web permettant d'effectuer certaines actions précisées dans un cahier des charges.</p>
-                                        <p></p>
+                                        <p>Ce projet se déroulait par équipes de trois. Dans un premier temps, il était question d'adapter la base de données du projets selon différents attendus. Une fois la base de données validée, le travail de l'application web était partagé entre les trois membres de l'équipe et chacun devait développer les fonctionnalités qui les concernaient.</p>
+                                        <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
