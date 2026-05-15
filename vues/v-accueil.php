@@ -24,7 +24,7 @@
                         Après avoir fait un Baccalauréat Général avec spécialité Mathématiques et NSI (Numérique et Science de l'Informatique),
                         le BTS SIO spécialité SLAM me semblait être la suite logique de mon parcours en développement.</p>
                 </div>
-            
+
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <img src="assets/img/parcours_test.png" alt="mon parcours" class="img-fluid" style=" width: 300px;">
                 </div>
@@ -52,7 +52,7 @@
                         IDEs, Frameworks et SGBDs.
                     </p>
                 </div>
-            
+
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <h2>L'option SISR</h2>
                     <p class="presentation">L'option SISR du BTS SIO est l'option axée sur la sécurité des systèmes d'information
@@ -171,6 +171,12 @@
                                         </button>
                                         <p>L'atelier professionnel Mille Nuits était le premier atelier après notre choix d'option. Pour les SLAMs, il était donc question de créer une application web permettant d'effectuer certaines actions précisées dans un cahier des charges.</p>
                                         <p>Ce projet se déroulait par équipes de trois. Dans un premier temps, il était question d'adapter la base de données du projets selon différents attendus. Une fois la base de données validée, le travail de l'application web était partagé entre les trois membres de l'équipe et chacun devait développer les fonctionnalités qui les concernaient.</p>
+                                        <p>Technologies utilisées :
+                                            <br> - IDE : Netbeans
+                                            <br> - Langages : HTML, CSS, PHP
+                                            <br> - Framework : Bootstrap
+                                            <br> - SGBD : MariaDB
+                                        </p>
                                         <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
@@ -234,8 +240,14 @@
                                         </button>
                                         <p>L'atelier professionnel Epoka était pour les SLAMs l'atelier le plus complet car il se déroulait tout au long de la seconde année.</p>
                                         <p>Tout d'abord, il fallait aussi créer une base de données en fonction de différents attendus. Une fois cette base de données validée, une application Web en php devait être créée, permettant de gérer différents éléments de la base de données, comme les différentes revues disponibles ou les ventes dans mon cas.</p>
-                                        <p>Ensuite, une autre application en JSP (Jakarta) a été créée cette fois ci pour gérer les abonnements des clients d'Epoka, notamment pour afficher les abonnements expirés ou bientôt expirés, ou encore créer de nouveaux abonnements.</p>
+                                        <p>Ensuite, une autre application en JSP (Jakarta EE) a été créée cette fois ci pour gérer les abonnements des clients d'Epoka, notamment pour afficher les abonnements expirés ou bientôt expirés, ou encore créer de nouveaux abonnements.</p>
                                         <p>Enfin, j'ai développé des web services permettant de récuperer les informations dans la base de données. Ils sont particuliérement utiles pour l'application mobile Epoka que l'on devait développer en Java, qui utilise ses web services pour alimenter ses différentes vues ou proposer un système de connexion.</p>
+                                        <p>Technologies utilisées :
+                                        <br> - IDE : NetBeans, Android Studio
+                                        <br> - Langages : HTML, CSS, PHP, Jakarta EE, Java 
+                                        <br> - Framework : CodeIgniter, Bootstrap
+                                        <br> - SGBD : SQLServer
+                                    </p>
                                         <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
@@ -357,9 +369,16 @@
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="visually-hidden">Next</span>
                                         </button>
-                                        <p>Stock2Com est une entreprise qui coiçoit des sites internet avec backoffice pour d'autres organisations, particulièrement pour les agences de voyages ou les agences immobilières.</p>
-                                        <p>Ma mission lors de ce stage était de modifier certaines pages du backoffice, notamment leur esthétique, pour les remettre au goût du jour et les rendre plus intuitive pour les clients.</p>
-                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
+                                    </div>
+                                    <p>Stock2Com est une entreprise qui coiçoit des sites internet avec backoffice pour d'autres organisations, particulièrement pour les agences de voyages ou les agences immobilières.</p>
+                                    <p>Ma mission lors de ce stage était de modifier certaines pages du backoffice, notamment leur esthétique, pour les remettre au goût du jour et les rendre plus intuitive pour les clients.</p>
+                                    <p>Technologies utilisées :
+                                        <br> - IDE : Visual Studio Code
+                                        <br> - Langages : HTML, CSS, Ruby
+                                        <br> - Framework : RubyOnRails
+                                        <br> - SGBD : MariaDB
+                                    </p>
+                                    <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     <br>
                                     <br>
                                 </div>
