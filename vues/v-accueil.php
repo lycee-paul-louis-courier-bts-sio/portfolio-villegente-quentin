@@ -20,7 +20,7 @@
             <div class="row">
                 <div class=" col-lg-6 col-md-6" col-sm-12>
                     <p class="presentation">Je m'appelle Quentin Villegente et je suis étudiant en BTS SIO spécialité
-                        SLAM (Solution Logiciels et Applications Métiers) au lycée Paul Louis Courier.
+                        SLAM (Solutions Logicielles et Applications Métiers) au lycée Paul Louis Courier.
                         Après avoir fait un Baccalauréat Général avec spécialité Mathématiques et NSI (Numérique et Science de l'Informatique),
                         le BTS SIO spécialité SLAM me semblait être la suite logique de mon parcours en développement.</p>
                 </div>
@@ -76,7 +76,7 @@
                     <img src="assets/img/logo_startdev500x500.png" class="card-img-top" alt="logo de startdev">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - StartDev</h5>
-                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique <br>- Répondre aux demandes d'incidents <br>- Développer la présence en ligne de l'oganisation <br>- Travailler en mode projet <br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalStartDev">
                             En savoir plus
                         </button>
@@ -111,7 +111,7 @@
                                         </button>
                                         <p>Cet atelier professionnel s'est deroulé lors du premier semestre de ma formation, nous n'avions donc pas encore choisi nos options. Il était commun pour les futurs SLAMs et futurs SISRs.</p>
                                         <p>La première étape était donc de comparer différents CMS selon certains critères, puis de modifier un site vitrine déjà existant en utilisant le CMS Wordpress.</p>
-                                        <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, organiser son développement personnel</p>
+                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique <br>- Répondre aux demandes d'incidents <br>- Développer la présence en ligne de l'oganisation <br>- Travailler en mode projet <br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
@@ -136,7 +136,7 @@
                     <img src="assets/img/logo_millesnuits500x500.png" class="card-img-top" alt="logo de mille nuits">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - Mille nuits</h5>
-                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalMilleNuits">
                             En savoir plus
                         </button>
@@ -171,7 +171,7 @@
                                         </button>
                                         <p>L'atelier professionnel Mille Nuits était le premier atelier après notre choix d'option. Pour les SLAMs, il était donc question de créer une application web permettant d'effectuer certaines actions précisées dans un cahier des charges.</p>
                                         <p>Ce projet se déroulait par équipes de trois. Dans un premier temps, il était question d'adapter la base de données du projets selon différents attendus. Une fois la base de données validée, le travail de l'application web était partagé entre les trois membres de l'équipe et chacun devait développer les fonctionnalités qui les concernaient.</p>
-                                        <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
+                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
@@ -193,7 +193,7 @@
                     <img src="assets/img/logo_epoka500x500.png" class="card-img-top" alt="logo d'Epoka">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - EPOKA</h5>
-                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalEpoka">
                             En savoir plus
                         </button>
@@ -236,7 +236,7 @@
                                         <p>Tout d'abord, il fallait aussi créer une base de données en fonction de différents attendus. Une fois cette base de données validée, une application Web en php devait être créée, permettant de gérer différents éléments de la base de données, comme les différentes revues disponibles ou les ventes dans mon cas.</p>
                                         <p>Ensuite, une autre application en JSP (Jakarta) a été créée cette fois ci pour gérer les abonnements des clients d'Epoka, notamment pour afficher les abonnements expirés ou bientôt expirés, ou encore créer de nouveaux abonnements.</p>
                                         <p>Enfin, j'ai développé des web services permettant de récuperer les informations dans la base de données. Ils sont particuliérement utiles pour l'application mobile Epoka que l'on devait développer en Java, qui utilise ses web services pour alimenter ses différentes vues ou proposer un système de connexion.</p>
-                                        <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
+                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
@@ -265,7 +265,7 @@
                     <img src="assets/img/logo_domitys500x500.png" class="card-img-top" alt="logo de domitys">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - DOMYTYS SAS</h5>
-                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées :<br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Travailler en mode projet<br>- Mettre à disposition des utilisateurs un service informatiqu<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalDomitys">
                             En savoir plus
                         </button>
@@ -306,7 +306,7 @@
                                     <br>
                                     <p>Mon stage chez Domitys s'incrit dans un contexte particulier, car ils étaient en pleine migration de version sur leur application nationale. De plus, le développement chez Domitys est en grande partie externalisée.</p>
                                     <p>Le but de mon stage était donc de suivre cette migration et de vérifier le bon fonctionnement de la nouvelle version.</p>
-                                    <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
+                                    <p>Compétences mobilisées :<br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Travailler en mode projet<br>- Mettre à disposition des utilisateurs un service informatiqu<br>- Organiser son développement personnel</p>
                                 </div>
                                 <div class="modal-footer">
                                     <a href="assets/doc/rapport_domitys.pdf" class="btn-download-tableau btn-secondary" download>
@@ -324,7 +324,7 @@
                     <img src="assets/img/logo_stock2com500x500.png" class="card-img-top" alt="logo de stock2com">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - STOCK2COM</h5>
-                        <p class="card-text">Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
                             En savoir plus
                         </button>
@@ -359,8 +359,7 @@
                                         </button>
                                         <p>Stock2Com est une entreprise qui coiçoit des sites internet avec backoffice pour d'autres organisations, particulièrement pour les agences de voyages ou les agences immobilières.</p>
                                         <p>Ma mission lors de ce stage était de modifier certaines pages du backoffice, notamment leur esthétique, pour les remettre au goût du jour et les rendre plus intuitive pour les clients.</p>
-                                        <p>Compétences mobilisées : Gérer le patrimoine informatique, Répondre aux demandes d'incidents, développer la présence en ligne de l'oganisation, travailler en mode projet, mettre à disposition des utilisateurs un service informatique, organiser son développement personnel</p>
-                                    </div>
+                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     <br>
                                     <br>
                                 </div>
