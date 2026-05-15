@@ -243,11 +243,11 @@
                                         <p>Ensuite, une autre application en JSP (Jakarta EE) a été créée cette fois ci pour gérer les abonnements des clients d'Epoka, notamment pour afficher les abonnements expirés ou bientôt expirés, ou encore créer de nouveaux abonnements.</p>
                                         <p>Enfin, j'ai développé des web services permettant de récuperer les informations dans la base de données. Ils sont particuliérement utiles pour l'application mobile Epoka que l'on devait développer en Java, qui utilise ses web services pour alimenter ses différentes vues ou proposer un système de connexion.</p>
                                         <p>Technologies utilisées :
-                                        <br> - IDE : NetBeans, Android Studio
-                                        <br> - Langages : HTML, CSS, PHP, Jakarta EE, Java 
-                                        <br> - Framework : CodeIgniter, Bootstrap
-                                        <br> - SGBD : SQLServer
-                                    </p>
+                                            <br> - IDE : NetBeans, Android Studio
+                                            <br> - Langages : HTML, CSS, PHP, Jakarta EE, Java
+                                            <br> - Framework : CodeIgniter, Bootstrap
+                                            <br> - SGBD : SQLServer
+                                        </p>
                                         <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
@@ -276,7 +276,7 @@
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
                     <img src="assets/img/logo_domitys500x500.png" class="card-img-top" alt="logo de domitys">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
-                        <h5 class="card-title">1ère année - DOMYTYS SAS</h5>
+                        <h5 class="card-title">1ère année - DOMITYS SAS</h5>
                         <p class="card-text">Compétences mobilisées :<br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Travailler en mode projet<br>- Mettre à disposition des utilisateurs un service informatiqu<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalDomitys">
                             En savoir plus
@@ -391,6 +391,41 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="container" id="Gestion">
+        <h1>Ma Gestion de Patrimoine</h1>
+        <div class="card text-white text-center pt-5" style="background-color: #02332E">
+            <div class="row">
+                <div class=" col-lg-12 col-md-12 col-sm-12">
+                    <h2>Qu'est ce que la gestion de patrimoine informatique ?</h2>
+                    <p class="presentation">Le terme de patrimoine informatique n’est souvent
+                        pas bien compris dans le langage courant. Lorsqu’on pense patrimoine informatique,
+                        on pense évidemment aux biens matériels informatiques,
+                        notamment les ordinateurs ou les téléphones.
+                        Cependant, beaucoup ignorent que la définition du patrimoine informatique
+                        est bien plus large, puisqu’elle comprend aussi les biens immatériels.
+                        Cela veut dire que les logiciels et les documents stockés sur les ordinateurs ou téléphones
+                        de l’entreprise comptent aussi dans ce qu’on appelle le patrimoine informatique.
+                    </p>
+                    <p class="presentation">
+                        Au cours de mes stages, j'ai été ammené à écrire deux notes de synthèse
+                        concernant le patrimoine informatique des organisations dans lesquelles j'ai été accueilli.
+                        Vous pouvez les consulter en cliquant sur les boutons si-dessous (La note de synthèse de Stock2Com contient également
+                        un comparatif entre les deux stages).
+                    </p>
+                    <a href="assets/doc/synthese_domitys.pdf" class="btn-download-tableau btn-secondary" download>
+                        <button type="button" class="btn btn-primary">Note de Synthèse Domitys</button>
+                    </a>
+                    <a href="assets/doc/synthese_s2c.pdf" class="btn-download-tableau" download>
+                        <button type="button" class="btn btn-primary">Note de Synthèse Stock2Com</button>
+                    </a>
                 </div>
             </div>
         </div>
