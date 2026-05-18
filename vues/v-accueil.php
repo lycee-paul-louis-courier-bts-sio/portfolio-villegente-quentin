@@ -493,58 +493,25 @@
         <div class="row">
             <h1>Contact</h1>
         </div>
-        <div class="row">
-            <div class="col-6">
-                <div class="card bg-success text-white">
-                    <div class="card-header">
-                        <h1>Mes informations</h1>
-                    </div>
-                    <div class="container-infos">
-                        <div class="row">
-                            <p><span><i class="bi bi-linkedin"></i></span> Quentin Villegente</p>
-                        </div>
-                        <br>
-                    </div>
+        <div class="card text-white text-center pt-5" style="background-color: #02332E">
+            <div class="row">
+                <div class=" col-lg-4 col-md-4" col-sm-12>
+                    <h2>Email</h2>
+                    <p class="presentation"><span><i class="bi bi-envelope-fill"></i></span> villegentequentin@gmail.com</p>
                 </div>
-            </div>
-            <div class="col-6">
-                <div class="card bg-success text-white">
-                    <div class="card-header">
-                        <h1>Formulaire de contact</h1>
-                    </div>
-                    <div class="row mt-4">
-                        <div class="mb-3 col-3">
-                            <label for="nom" class="form-label">Nom</label>
-                            <input type="text" class="form-control" id="nom" name="nom">
-                        </div>
-                        <div class="mb-3 col-3">
-                            <label for="prenom" class="form-label">Prénom</label>
-                            <input type="text" class="form-control" id="prenom" name="prenom">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="mb-3 col-6">
-                            <label for="email" class="form-label">Email</label>
-                            <input type="text" class="form-control" id="email" name="email">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-6">
-                            <label for="objet" class="form-label">Objet</label>
-                            <select class="form-select">
-                                <option select>Sélectionnez un objet</option>
-                                <option value='info'>Besoin d'information</option>
-                                <option value='rdv'>Prise de rendez-vous</option>
-                                <option value='stage'>Demande de stage</option>
-                                <option value='autre'>Autre</option>
-                            </select>
-                        </div>
-                    </div>
-                    <br>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <h2>LinkedIn</h2>
+                    <p class="presentation"><span><i class="bi bi-linkedin"></i></span> Quentin Villegente</p>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <h2>GitHub</h2>
+                    <p class="presentation"><span><i class="bi bi-github"></i></span> quentvlgt</p>
                 </div>
             </div>
         </div>
     </div>
+
+    <br>
 
 </div>
 
