@@ -439,52 +439,24 @@
                     <img src="assets/img/logo_anssi500x500.png" class="card-img-top" alt="logo de l'anssi">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">SecNum Académie - ANSSI</h5>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalDomitys">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalANSSI">
                             En savoir plus
                         </button>
                     </div>
-                    <div class="modal" id="ModalDomitys" tabindex="-1">
+                    <div class="modal" id="ModalANSSI" tabindex="-1">
                         <div class="modal-dialog modal-dialog-centered modal-lg">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Mon stage chez Domitys</h5>
+                                    <h5 class="modal-title">Ma certification SecNumAcadémie</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <div id="carouselDomitys" class="carousel slide">
-                                        <div class="carousel-inner">
-                                            <div class="carousel-item active">
-                                                <img src="assets/img/teams_domitys.png" class="d-block w-100" alt="capture du trello de Domitys">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="assets/img/tests_domitys.png" class="d-block w-100" alt="Capture d'un cahier de tests chez Domitys">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="assets/img/rapports_domitys.png" class="d-block w-100" alt="Capture de l'application de rapports">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="assets/img/competences_domitys.png" class="d-block w-100" alt="Capture des compétences chez Domitys">
-                                            </div>
-                                        </div>
-                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselDomitys" data-bs-slide="prev">
-                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                            <span class="visually-hidden">Previous</span>
-                                        </button>
-                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselDomitys" data-bs-slide="next">
-                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                            <span class="visually-hidden">Next</span>
-                                        </button>
-                                    </div>
                                     <br>
                                     <br>
-                                    <p>Mon stage chez Domitys s'incrit dans un contexte particulier, car ils étaient en pleine migration de version sur leur application nationale. De plus, le développement chez Domitys est en grande partie externalisée.</p>
-                                    <p>Le but de mon stage était donc de suivre cette migration et de vérifier le bon fonctionnement de la nouvelle version.</p>
-                                    <p>Compétences mobilisées :<br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Travailler en mode projet<br>- Mettre à disposition des utilisateurs un service informatiqu<br>- Organiser son développement personnel</p>
+                                    <p>La certification proposée par l'ANSSI sur le MOOC SecNumAcadémie est une certification qui permet de voir ou de revoir les bases de la cybersécurité. Cette certification était obligatoire au début de notre formation. Une attestation de passage nous a été délivrée.</p>
+                                    <p>Actuellement, le MOOC SecNumAcadémie est temporairement indisponible car il est en refonte. Il sera normalement redisponible dans l'année 2026.</p>
                                 </div>
                                 <div class="modal-footer">
-                                    <a href="assets/doc/rapport_domitys.pdf" class="btn-download-tableau btn-secondary" download>
-                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
-                                    </a>
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
                                 </div>
                             </div>
@@ -494,7 +466,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
-                    <img src="assets/img/logo_stock2com500x500.png" class="card-img-top" alt="logo de stock2com">
+                    <img src="assets/img/logo_openclassroom500x500.png" class="card-img-top" alt="logo de stock2com">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - STOCK2COM</h5>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
