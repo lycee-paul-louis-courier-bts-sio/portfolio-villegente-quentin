@@ -432,7 +432,7 @@
     </div>
 
     <div class='container' id="certification">
-        <h1>Mes Stages</h1>
+        <h1>Mes Certifications</h1>
         <div class="row mt-4">
             <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
