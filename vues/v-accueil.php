@@ -432,7 +432,7 @@
         </div>
     </div>
 
-    <div class='container' id="certification">
+    <div class='container' id="certifications">
         <h1>Mes Certifications</h1>
         <div class="row mt-4">
             <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
@@ -470,55 +470,31 @@
                     <img src="assets/img/logo_openclassroom500x500.png" class="card-img-top" alt="logo de ocr">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">OPENCLASSROOMS</h5>
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalOCR">
                             En savoir plus
                         </button>
                     </div>
-                    <div class="modal" id="ModalS2C" tabindex="-1">
+                    <div class="modal" id="ModalOCR" tabindex="-1">
                         <div class="modal-dialog modal-dialog-centered modal-lg">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Mon stage chez Stock2Com</h5>
+                                    <h5 class="modal-title">Openclassrooms</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <div id="carouselS2C" class="carousel slide">
-                                        <div class="carousel-inner">
-                                            <div class="carousel-item active">
-                                                <img src="assets/img/cahier_charges_s2c.png" class="d-block w-100" alt="Capture d'écran du cahier des charges fourni par Stock2Com">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="assets/img/resultat_s2c.png" class="d-block w-100" alt="Capture d'écran des résultats finaux">
-                                            </div>
-                                            <div class="carousel-item">
-                                                <img src="assets/img/competences_s2c.png" class="d-block w-100" alt="Capture des compétences chez Stock2Com">
-                                            </div>
-                                        </div>
-                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselS2C" data-bs-slide="prev">
-                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                            <span class="visually-hidden">Previous</span>
-                                        </button>
-                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselS2C" data-bs-slide="next">
-                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                            <span class="visually-hidden">Next</span>
-                                        </button>
-                                    </div>
-                                    <p>Stock2Com est une entreprise qui coiçoit des sites internet avec backoffice pour d'autres organisations, particulièrement pour les agences de voyages ou les agences immobilières.</p>
-                                    <p>Ma mission lors de ce stage était de modifier certaines pages du backoffice, notamment leur esthétique, pour les remettre au goût du jour et les rendre plus intuitive pour les clients.</p>
-                                    <p>Technologies utilisées :
-                                        <br> - IDE : Visual Studio Code
-                                        <br> - Langages : HTML, CSS, Ruby
-                                        <br> - Framework : RubyOnRails
-                                        <br> - SGBD : MariaDB
+                                    <p>Openclassrooms est une plateforme de formation en ligne. Elle propose différentes offres allant du parcours de formation de quelques heures gratuit à la certification à plein temps reconnue par l'état.</p>
+                                    <p>Un parcours de formation ne donne pas forcémment lieu à une certification. Dans mon cas, je n'ai effectué que des parcours de formation.</p>
+                                    <p>Mes parcours de formations réalisés sur Openclassrooms :
+                                        <br> - PHP
+                                        <br> - Javascript
+                                        <br> - Application Mobile Java
+                                        <br> - Ruby
+                                        <br> - Bootstrap
+                                        <br> - Springboot
                                     </p>
-                                    <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
-                                    <br>
                                     <br>
                                 </div>
                                 <div class="modal-footer">
-                                    <a href="assets/doc/rapport_s2c.pdf" class="btn-download-tableau btn-secondary" download>
-                                        <button type="button" class="btn btn-primary">Télécharger le rapport de stage</button>
-                                    </a>
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
                                 </div>
                             </div>

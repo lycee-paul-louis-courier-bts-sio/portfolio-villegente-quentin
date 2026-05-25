@@ -22,7 +22,7 @@
                     <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" data-bs-toggle="dropdown">Compétences Professionnelles</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#ap">Ateliers Professionnels</a></li>
-                        <li><a class="dropdown-item" href="#veille">Certification</a></li>
+                        <li><a class="dropdown-item" href="#certifications">Certification</a></li>
                         <li><a class="dropdown-item" href="#stages">Stages</a></li>
                         <li><a class="dropdown-item" href="#tableau">Tableau de Synthèse</a></li>
                     </ul>
