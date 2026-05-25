@@ -244,7 +244,8 @@
                                         <p>Enfin, j'ai développé des web services permettant de récuperer les informations dans la base de données. Ils sont particuliérement utiles pour l'application mobile Epoka que l'on devait développer en Java, qui utilise ses web services pour alimenter ses différentes vues ou proposer un système de connexion.</p>
                                         <p>Technologies utilisées :
                                             <br> - IDE : NetBeans, Android Studio
-                                            <br> - Langages : HTML, CSS, PHP, Jakarta EE, Java
+                                            <br> - Langages : HTML, CSS, PHP, Jakarta EE, Java, JSON
+                                            <br> - Dépendances : Gson, CommonsCodec
                                             <br> - Framework : CodeIgniter, Bootstrap
                                             <br> - SGBD : SQLServer
                                         </p>
@@ -466,9 +467,9 @@
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 mb-3 d-flex justify-content-center">
                 <div class="card rounded-3" style="width: 18rem; background-color: #02332E">
-                    <img src="assets/img/logo_openclassroom500x500.png" class="card-img-top" alt="logo de stock2com">
+                    <img src="assets/img/logo_openclassroom500x500.png" class="card-img-top" alt="logo de ocr">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
-                        <h5 class="card-title">2ème année - STOCK2COM</h5>
+                        <h5 class="card-title">OPENCLASSROOMS</h5>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
                             En savoir plus
                         </button>
