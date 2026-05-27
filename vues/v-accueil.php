@@ -76,7 +76,7 @@
                     <img src="assets/img/logo_startdev500x500.png" class="card-img-top" alt="logo de startdev">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - StartDev</h5>
-                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique <br>- Répondre aux demandes d'incidents <br>- Développer la présence en ligne de l'oganisation <br>- Travailler en mode projet <br>- Organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique <br>- Répondre aux demandes d'incidents <br>- Développer la présence en ligne de l'organisation <br>- Travailler en mode projet <br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalStartDev">
                             En savoir plus
                         </button>
@@ -111,7 +111,7 @@
                                         </button>
                                         <p>Cet atelier professionnel s'est deroulé lors du premier semestre de ma formation, nous n'avions donc pas encore choisi nos options. Il était commun pour les futurs SLAMs et futurs SISRs.</p>
                                         <p>La première étape était donc de comparer différents CMS selon certains critères, puis de modifier un site vitrine déjà existant en utilisant le CMS Wordpress.</p>
-                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique <br>- Répondre aux demandes d'incidents <br>- Développer la présence en ligne de l'oganisation <br>- Travailler en mode projet <br>- Organiser son développement personnel</p>
+                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique <br>- Répondre aux demandes d'incidents <br>- Développer la présence en ligne de l'organisation <br>- Travailler en mode projet <br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
@@ -136,7 +136,7 @@
                     <img src="assets/img/logo_millesnuits500x500.png" class="card-img-top" alt="logo de mille nuits">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">1ère année - Mille nuits</h5>
-                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'organisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalMilleNuits">
                             En savoir plus
                         </button>
@@ -177,7 +177,7 @@
                                             <br> - Framework : Bootstrap
                                             <br> - SGBD : MariaDB
                                         </p>
-                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
+                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'organisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
@@ -199,7 +199,7 @@
                     <img src="assets/img/logo_epoka500x500.png" class="card-img-top" alt="logo d'Epoka">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - EPOKA</h5>
-                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'organisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalEpoka">
                             En savoir plus
                         </button>
@@ -249,7 +249,7 @@
                                             <br> - Framework : CodeIgniter, Bootstrap
                                             <br> - SGBD : SQLServer
                                         </p>
-                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
+                                        <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'organisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     </div>
                                     <br>
                                     <br>
@@ -337,7 +337,7 @@
                     <img src="assets/img/logo_stock2com500x500.png" class="card-img-top" alt="logo de stock2com">
                     <div class="card-body text-white text-center" style="background-color: #02332E">
                         <h5 class="card-title">2ème année - STOCK2COM</h5>
-                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
+                        <p class="card-text">Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'organisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ModalS2C">
                             En savoir plus
                         </button>
@@ -371,7 +371,7 @@
                                             <span class="visually-hidden">Next</span>
                                         </button>
                                     </div>
-                                    <p>Stock2Com est une entreprise qui coiçoit des sites internet avec backoffice pour d'autres organisations, particulièrement pour les agences de voyages ou les agences immobilières.</p>
+                                    <p>Stock2Com est une entreprise qui conçoit des sites internet avec backoffice pour d'autres organisations, particulièrement pour les agences de voyages ou les agences immobilières.</p>
                                     <p>Ma mission lors de ce stage était de modifier certaines pages du backoffice, notamment leur esthétique, pour les remettre au goût du jour et les rendre plus intuitive pour les clients.</p>
                                     <p>Technologies utilisées :
                                         <br> - IDE : Visual Studio Code
@@ -379,7 +379,7 @@
                                         <br> - Framework : RubyOnRails
                                         <br> - SGBD : MariaDB
                                     </p>
-                                    <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'oganisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
+                                    <p>Compétences mobilisées : <br>- Gérer le patrimoine informatique<br>- Répondre aux demandes d'incidents<br>- Développer la présence en ligne de l'organisation<br>- Travailler en mode projet <br>- Mettre à disposition des utilisateurs un service informatique<br>- Organiser son développement personnel</p>
                                     <br>
                                     <br>
                                 </div>
